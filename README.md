@@ -33,16 +33,16 @@ Clone the repository and navigate to the project directory:
   	```sh
 	roscore
 - Run the publisher node:
-```sh
-rosrun  publisher_node.py
+	```sh
+	rosrun  publisher_node.py
 - Run the subscriber node:
-```sh
-rosrun pub-sub-service subscriber_node.py
+	```sh
+	rosrun pub-sub-service subscriber_node.py
 - Run the service server node:
-```sh
-rosrun pub-sub-service exp_calc_service.py
+	```sh
+	rosrun pub-sub-service exp_calc_service.py
 - Run the service client node:
-```sh
-rosrun pub-sub-service exp_calc_client.py
+	```sh
+	rosrun pub-sub-service exp_calc_client.py
 
 
