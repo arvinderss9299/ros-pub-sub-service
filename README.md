@@ -1,6 +1,6 @@
 # ROS Topic and Service Project
 
-This project demonstrates the implementation of a publisher and subscriber node for a ROS topic, as well as a service server and client node for a ROS service. We wil be calculating x to the power y as an example.
+This project demonstrates the implementation of a publisher and subscriber node for a ROS topic, as well as a service server and client node for a ROS service. We will be calculating x to the power of y as an example.
 
 ## Table of Contents
 - [Introduction](#introduction)
