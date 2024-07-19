@@ -27,6 +27,7 @@ Clone the repository and navigate to the project directory:
 
 ## Usage
 - Source your ROS setup file:
+  	```sh
 	source /opt/ros/<distro>/setup.bash
 - Make sure your ROS master is running:
 	roscore
