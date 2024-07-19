@@ -30,14 +30,19 @@ Clone the repository and navigate to the project directory:
   	```sh
 	source /opt/ros/<distro>/setup.bash
 - Make sure your ROS master is running:
+  	```sh
 	roscore
 - Run the publisher node:
-	rosrun  publisher_node.py
+```sh
+rosrun  publisher_node.py
 - Run the subscriber node:
-	rosrun pub-sub-service subscriber_node.py
+```sh
+rosrun pub-sub-service subscriber_node.py
 - Run the service server node:
-	rosrun pub-sub-service exp_calc_service.py
+```sh
+rosrun pub-sub-service exp_calc_service.py
 - Run the service client node:
-	rosrun pub-sub-service exp_calc_client.py
+```sh
+rosrun pub-sub-service exp_calc_client.py
 
 
